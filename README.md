@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IswaryaVengadesan
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on gitup
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me ishuvengadesan@gmail.com
 
 <!---
